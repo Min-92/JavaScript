@@ -4,7 +4,7 @@
 
 - Object
 - 자바스크립트 참조타입(객체타입)
-  -  <https://github.com/Min-92/JavaScript/blob/master/referenceType.md>
+  -  <https://github.com/Min-92/JavaScript/blob/master/docs/referenceType.md>
 
 
 
@@ -17,3 +17,4 @@
 - [[JavaScript the definitive guide] David Flanagan](<https://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596101996>)
 
 - [[JavaScript: The Good Parts]  Douglas Crockford](<https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742>)
+
